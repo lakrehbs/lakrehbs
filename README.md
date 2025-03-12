@@ -3,6 +3,8 @@
 ## Repository Legend
 UE5 = Unreal Engine 5 |
 U6 = Unity 6
+UP = Unity Project
+UEP = Unreal Engine Project
 
 <!--
 **lakrehbs/lakrehbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
