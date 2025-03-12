@@ -2,8 +2,8 @@
 
 ## Repository Legend
 UE5 = Unreal Engine 5 |
-U6 = Unity 6
-UP = Unity Project
+U6 = Unity 6|
+UP = Unity Project |
 UEP = Unreal Engine Project
 
 <!--
